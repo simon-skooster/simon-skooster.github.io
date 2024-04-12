@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: /
-
-Sitemap: http://skooster.applebite.co.uk/sitemap-index.xml

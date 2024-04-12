@@ -1,4 +1,5 @@
 User-agent: *
 Disallow: /
 
-Sitemap: http://skooster.applebite.co.uk/sitemap-index.xml
+# crawling rule(s) for above bots
+Sitemap: https://www.staging.skooster.net/sitemap-index.xml
